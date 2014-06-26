@@ -1,0 +1,2 @@
+#!/bin/sh
+afplay ~/git/gitsounds/sounds/pushit.mp3
