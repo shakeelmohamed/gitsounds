@@ -1,0 +1,2 @@
+#!/bin/sh
+afplay ~/git/gitsounds/sounds/chicken.mp3

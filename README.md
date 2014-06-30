@@ -15,11 +15,10 @@ Everybody needs git sounds!
 ## Current sounds
 
 * pre-push: plays a sample of the Scarface theme, "Push it to the limit!"
+* pre-rebase: plays a sample of Swizz Beatz saying "Oh you fancy, huh?" from the chorus of Drake's "Fancy"
+* post-merge: plays a chicken squawking
+* post-checkout: plays a tree branch snapping
 
 ## TODO
 
-* Need to trim sound files for branch_snapping.mp3 and chicken.mp3
-
-* post-merge: ???
-* post-checkout: plays a tree branch snapping sound
-* pre-rebase: plays a chicken sound, very intentionally
+* post-commit: ???
